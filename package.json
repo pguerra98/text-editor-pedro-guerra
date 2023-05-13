@@ -1,0 +1,19 @@
+{
+  "name": "text-editor-pedro-guerra",
+  "version": "1.0.0",
+  "description": "text-editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pguerra98/text-editor-pedro-guerra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pguerra98/text-editor-pedro-guerra/issues"
+  },
+  "homepage": "https://github.com/pguerra98/text-editor-pedro-guerra#readme"
+}
