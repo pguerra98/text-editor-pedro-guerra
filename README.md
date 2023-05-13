@@ -15,9 +15,9 @@ N/A
 This challenged allowed me to improve my JavaScript & PWA coding skills. This challenge gave us a starter code, so overall it was not terribly difficult, but
 understanding the general idea took some time, and it was a rewarding challenge for sure.
 
-<a href="X">Deployed Website Link</a>
+<a href="https://text-editor-pedro-guerra.herokuapp.com/">Deployed Website Link</a>
 
-![alt text](X)
+![alt text](./client/screenshotforreadme.png)
 
 ## Credits
 
