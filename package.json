@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pguerra98/text-editor-pedro-guerra/issues"
   },
-  "homepage": "https://github.com/pguerra98/text-editor-pedro-guerra#readme"
+  "homepage": "https://github.com/pguerra98/text-editor-pedro-guerra#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }

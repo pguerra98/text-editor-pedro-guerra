@@ -21,7 +21,7 @@ understanding the general idea took some time, and it was a rewarding challenge 
 
 ## Credits
 
-GA Tech bootcamp challenge 03 starter code
+GA Tech bootcamp
 
 ## License
 
